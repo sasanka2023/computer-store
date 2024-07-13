@@ -1,0 +1,32 @@
+.headline{
+    margin-top: 40%;
+    margin-right: 5%;
+    font-size: 3.5rem;
+}
+
+.swiper-pagination-bullet {
+    width: 12px;
+    height: 12px;
+    background: #f7f4f4; /* Default bullet color */
+    opacity: 1;
+  }
+
+.imgstyle{
+    width:70% ;
+}
+  
+@media screen and (max-width: 600px){
+    .headline{
+        margin-right: 0;
+        font-size: 0.9rem;
+        margin-top: 60%;
+    }
+    .imgstyle{
+        width:80% ;
+    }
+    
+}
+
+
+
+
