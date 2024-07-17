@@ -29,7 +29,7 @@ const Navbar = () => {
   const isAdmin = false
   return (
     
-    <nav className={` ${Styles.navbar} fixed w-full flex justify-between items-center py-4 px-6 text-gray-200 `}>
+    <nav className={`  w-full flex justify-between items-center py-4 px-6 text-gray-200 `}>
       <div className="logo text-2xl font-bold">
         <Link href="/">
           <h1>Logo</h1>
